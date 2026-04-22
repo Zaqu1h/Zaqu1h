@@ -1,13 +1,19 @@
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,linux,figma,git" />
-    <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" />
-    <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" />
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Howdy! I'm Isaque Passos  
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=23&duration=5000&pause=1000&color=2553ed&center=true&vCenter=true&width=520&lines=Welcome+to+my+profile!" />
   </a>
-</p>
+</div>
+
+<br>
+
+---
+
+## 📊 STATISTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaqu1h&layout=compact&hide_border=true&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zaqu1h&show_icons=true&hide_border=true&theme=transparent" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaqu1h&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
@@ -15,3 +21,87 @@
   <img src="https://raw.githubusercontent.com/Zaqu1h/Zaqu1h/output/light.svg#gh-light-mode-only" />
   <img src="https://raw.githubusercontent.com/Zaqu1h/Zaqu1h/output/dark.svg#gh-dark-mode-only" />
 </p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaqu1h&radius=16&theme=monokai&area=true&order=5&hide_border=true&hide_title=true&bg_color=0c1017&line=2553ed&point=FFFFFF&area_color=F5512D" width="100%" />
+
+---
+
+## 🪪 WHO AM I?
+<div align="left">
+  - 🇧🇷 Brazillian <br>
+  - 🧮 Graduating in Bachelor of Computer Science (UESC) <br>
+  - 🎯 Focused on algorithms, problem-solving and computational mathematics, with interest in computer graphics. <br>
+  - 🖌️ Pixel Artist 
+</div>
+
+---
+
+## 👣 EXPERIENCE
+
+### ⭐ Expert
+<div align="left">
+Nothing to see here... (yet)
+</div>
+
+### 🚀 Advanced
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" />
+</div>
+
+### 🛩️ Intermediate
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
+</div>
+
+### 🧭 Basic
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,arduino" />
+</div>
+
+---
+
+### 🎨 Tools & Creative
+<div align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=codeblocks,aseprite,canva" />
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" />
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" />
+</div>
+
+---
+
+### 📈 Areas for improvement
+<div align="left">
+
+- JavaScript  
+- HTML & CSS (Frontend development)  
+- Python  
+- C++  
+- Figma  
+- Computational Mathematics  
+
+</div>
+
+---
+
+## 🗣️ COMMUNICATION
+<div align="left">
+  <img src="https://img.shields.io/badge/Brazilian%20Portuguese-Native-teal?style=flat-square" height="25" />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/English-Intermediate-blue?style=flat-square" height="25" />
+</div>
+
+## 📬 CONTACT
+
+<div align="left">
+  <a href="https://instagram.com/passosisaque">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" />
+  </a>
+  
+  <a href="https://github.com/Zaqu1h">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
+  </a>
+  
+  <a href="mailto:isaquesilvapassos@hotmail.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
+  </a>
+</div>
