@@ -1,12 +1,10 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Howdy! I'm Isaque Passos  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Howdy! Isaque here!
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=23&duration=5000&pause=1000&color=2553ed&center=true&vCenter=true&width=520&lines=Welcome+to+my+profile!" />
   </a>
 </div>
-
----
 
 ## 📊 STATISTICS
 
