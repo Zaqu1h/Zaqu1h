@@ -53,14 +53,14 @@ Nothing to see here... (yet)
 
 ### 🧭 Basic
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode,arduino" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=codeblocks,arduino,vscode,linux,git" />
 </div>
 
 ---
 
 ### 🎨 Tools & Creative
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=codeblocks,aseprite,canva" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aseprite,canva" />
   <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" />
   <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" />
 </div>
