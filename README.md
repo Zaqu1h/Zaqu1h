@@ -9,8 +9,9 @@
 ## 📊 STATISTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaqu1h&show_icons=true&hide_border=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaqu1h&layout=compact&hide_border=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zaqu1h&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaqu1h&layout=compact&hide_border=true&theme=transparent&langs_count=8&&hide=wolfram+language,matlab" />
 </p>
 
 <p align="center">
