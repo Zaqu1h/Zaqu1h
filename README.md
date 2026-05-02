@@ -50,7 +50,7 @@ Nothing to see here... (yet)
 
 ### 🛩️ Intermediate
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,mysql" />
 </div>
 
 ### 🧭 Basic
