@@ -9,9 +9,12 @@
 ## 📊 STATISTICS
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zaqu1h&show_icons=true&hide_border=true&theme=transparent&count_private=true&cache_seconds=1" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaqu1h&layout=compact&hide_border=true&theme=transparent&langs_count=8&&include_all_commits=true&&hide=wolfram+language,matlab&cache_seconds=1" />
+  <a href="https://github.com/Zaqu1h/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Zaqu1h&layout=compact&hide_border=true&theme=transparent&include_all_commits=true)](https://github.com/Zaqu1h/github-readme-stats-fast" />
+  </a>
+  <a href="https://github.com/Zaqu1h/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Zaqu1h&hide_progress=true&layout=compact&hide_border=true&theme=transparent&include_all_commits=true" />
+  </a>
 </p>
 
 <p align="center">
