@@ -22,7 +22,6 @@
   <img src="https://raw.githubusercontent.com/Zaqu1h/Zaqu1h/output/dark.svg#gh-dark-mode-only" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaqu1h&radius=16&theme=monokai&area=true&order=5&hide_border=true&hide_title=true&bg_color=0c1017&line=2553ed&point=FFFFFF&area_color=F5512D&cache_seconds=1" width="100%" />
 
 ---
 
